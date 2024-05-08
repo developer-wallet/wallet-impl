@@ -43,7 +43,7 @@ export const DeveloperWalletNamespace = 'developer-wallet:';
 
 export type DeveloperWalletFeature = {
     [DeveloperWalletNamespace]: {
-        developerWallet: DevWallet;
+        devWallet: DevWallet;
     };
 };
 
